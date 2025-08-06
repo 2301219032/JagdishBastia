@@ -52,6 +52,11 @@ I love to learn by building real-world projects & exploring AI tools!
 " target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="linkedin" /></a>
   <a href="https://github.com/YOUR_USERNAME" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" alt="github" /></a>
 </p>
+<p align="left">
+  <a href="https://www.linkedin.com/in/jagdish-bastia-981b11341/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</p>
 
 ---
 
