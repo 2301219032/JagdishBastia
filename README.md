@@ -20,6 +20,7 @@
 
 <table>
   <tr>
+    <th colspan="5">Programming Languages</th>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/Python-Dark.svg" height="50" alt="Python"/><br/>Python
     </td>
@@ -27,6 +28,7 @@
       <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/Java-Dark.svg" height="50" alt="Java"/><br/>Java
     </td>
     <td align="center">
+      <th colspan="5">🌐 Web Development</th>
       <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/HTML.svg" height="50" alt="HTML5"/><br/>HTML
     </td>
     <td align="center">
@@ -44,9 +46,11 @@
       <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/NodeJS-Dark.svg" height="50" alt="Node.js"/><br/>Node.js
     </td>
     <td align="center">
+      <th colspan="5">Databases</th>
       <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/MySQL-Dark.svg" height="50" alt="MySQL"/><br/>MySQL
     </td>
     <td align="center">
+      <th colspan="5">Tools</th>
       <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/VSCode-Light.svg" height="50" alt="VS Code"/><br/>VS Code
     </td>
     <td align="center">
@@ -56,16 +60,12 @@
       <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/Github-Dark.svg" height="50" alt="GitHub"/><br/>GitHub
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/Linux-Dark.svg" height="50" alt="Linux"/><br/>Linux
-       <td align="center">
     </td>
   </tr>
 </table>
 
 📫 How to reach me:  
-[LinkedIn](www.linkedin.com/in/jagdish-bastia-981b11341
-
-) | [GitHub](https://github.com/JagdishBastia)
+[LinkedIn](www.linkedin.com/in/jagdish-bastia-981b11341) | [GitHub](https://github.com/JagdishBastia)
 
 ⚡ Fun fact:  
 I love to learn by building real-world projects & exploring AI tools!
