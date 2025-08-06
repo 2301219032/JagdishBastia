@@ -22,6 +22,18 @@
 • Database - MySQL
 • Tools - VS Code,Github
 
+
+  <!-- 🌐 Web Development -->
+  <tr>
+    <th colspan="6" style="padding: 12px; font-size: 20px;">🌐 Web Development</th>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/JavaScript.svg" height="50" title="JavaScript" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/React-Dark.svg" height="50" title="React.js" /></td>
+
+  </tr>
+
+
 📫 How to reach me:  
 [LinkedIn](www.linkedin.com/in/jagdish-bastia-981b11341
 
