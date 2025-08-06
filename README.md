@@ -38,7 +38,7 @@
 
 
 📫 How to reach me:  
-[LinkedIn](www.linkedin.com/in/jagdish-bastia-981b11341) | [GitHub](https://github.com/JagdishBastia)
+[GitHub](https://github.com/JagdishBastia)
 
 ⚡ Fun fact:  
 I love to learn by building real-world projects & exploring AI tools!
