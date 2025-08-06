@@ -15,7 +15,7 @@
 • AIML
 • Advanced Python,Java projects and skills
 
-💬 Technical Skills:  
+💬 My Technical Skills:  
 <h2>💻 Technical Skills</h2>
 
 <table>
@@ -57,32 +57,12 @@
     </td>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/Linux-Dark.svg" height="50" alt="Linux"/><br/>Linux
+       <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/Numpy-Dark.svg" height="50" alt="NumPy"/><br/>NumPy
+    </td>
     </td>
   </tr>
 </table>
-
-
-
-  <!-- 🌐 My Technical Skills -->
- 
-  <h2>🚀 Frontend and Backend Skills</h2>
-
-<table>
-  <tr>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/JavaScript.svg" height="50" title="JavaScript" /></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/React-Dark.svg" height="50" title="React.js" /></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/HTML.svg" height="50" title="HTML5" /></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/CSS.svg" height="50" title="CSS3" /></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/NodeJS-Dark.svg" height="50" title="Node.js" /></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/Java-Dark.svg" height="50" title="Java" /></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/Python-Dark.svg" height="50" title="Python" /></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/MySQL-Dark.svg" height="50" title="MySQL" /></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/VSCode-Light.svg" height="50" title="Visual Studio Code" /></td>
-  </tr>
-</table>
-
-
-
 
 📫 How to reach me:  
 [LinkedIn](www.linkedin.com/in/jagdish-bastia-981b11341
