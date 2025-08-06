@@ -1,1 +1,82 @@
-# JagdishBastia
+<h1 align="center">Hi 👋, I'm Jagdish Bastia</h1>
+<h3 align="center">A Passionate Frontend and Backend Developer | Python Programmer | AIML Enthusiast | Learner</h3>
+
+---
+
+🔭 I’m currently working on:  
+• Building web projects using React.js and Node.js  
+• Exploring Machine Learning with Python  
+• Strengthening my backend development with Node.js
+• Sharpening my interview skills
+
+
+🌱 I’m currently learning:  
+• Git & GitHub for collaboration  
+• AIML
+• Advanced Python,Java projects and skills
+
+💬 Technical Skills:  
+• Programming Languages - Python,Java
+• Frontend - HTML,CSS,JS,React.js
+• Backend - Node.js
+• Database - MySQL
+• Tools - VS Code,Github
+
+📫 How to reach me:  
+[LinkedIn](www.linkedin.com/in/jagdish-bastia-981b11341
+
+) | [GitHub](https://github.com/JagdishBastia)
+
+⚡ Fun fact:  
+I love to learn by building real-world projects & exploring AI tools!
+
+---
+
+## 🌐 Connect with Me:
+<p align="left">
+  <a href="www.linkedin.com/in/jagdish-bastia-981b11341
+
+" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="linkedin" /></a>
+  <a href="https://github.com/YOUR_USERNAME" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" alt="github" /></a>
+</p>
+
+---
+
+## 🛠️ Technologies & Tools
+
+![HTML](https://img.shields.io/badge/-HTML5-orange?style=flat&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS3-blue?style=flat&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript)
+![React](https://img.shields.io/badge/-React-blue?style=flat&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat&logo=node.js)
+![Python](https://img.shields.io/badge/-Python-blue?style=flat&logo=python)
+![Java](https://img.shields.io/badge/-Java-red?style=flat&logo=java)
+![MySQL](https://img.shields.io/badge/-MySQL-blue?style=flat&logo=mysql)
+![Git](https://img.shields.io/badge/-Git-orange?style=flat&logo=git)
+![VS Code](https://img.shields.io/badge/-VS%20Code-blue?style=flat&logo=visual-studio-code)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" />
+</p>
+
+---
+
+## 💡 Quote of the Day
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+---
+
+⭐️ From [Jagdish Bastia](https://github.com/YOUR_USERNAME)
