@@ -19,46 +19,23 @@
 <h2>💻 Technical Skills</h2>
 
 <table>
-  <tr>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/Python-Dark.svg" height="50" alt="Python"/><br/>Python
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/Java-Dark.svg" height="50" alt="Java"/><br/>Java
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/HTML.svg" height="50" alt="HTML5"/><br/>HTML
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/CSS.svg" height="50" alt="CSS3"/><br/>CSS
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/JavaScript.svg" height="50" alt="JavaScript"/><br/>JavaScript
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/React-Dark.svg" height="50" alt="React"/><br/>React.js
-    </td>
+  <tr align="center">
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/><br/>Python</td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/><br/>Java</td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/><br/>HTML</td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/><br/>CSS</td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/><br/>JavaScript</td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/><br/>React.js</td>
   </tr>
-  <tr>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/NodeJS-Dark.svg" height="50" alt="Node.js"/><br/>Node.js
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/MySQL-Dark.svg" height="50" alt="MySQL"/><br/>MySQL
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/VSCode-Light.svg" height="50" alt="VS Code"/><br/>VS Code
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/Git.svg" height="50" alt="Git"/><br/>Git
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/Github-Dark.svg" height="50" alt="GitHub"/><br/>GitHub
-    </td>
-    <td align="center">
-    </td>
+  <tr align="center">
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/><br/>Node.js</td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/><br/>MySQL</td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/><br/>VS Code</td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/><br/>Git</td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/><br/>GitHub</td>
   </tr>
 </table>
+
 
 📫 How to reach me:  
 [LinkedIn](www.linkedin.com/in/jagdish-bastia-981b11341) | [GitHub](https://github.com/JagdishBastia)
