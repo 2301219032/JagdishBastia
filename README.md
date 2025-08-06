@@ -58,8 +58,6 @@
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/Linux-Dark.svg" height="50" alt="Linux"/><br/>Linux
        <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/Numpy-Dark.svg" height="50" alt="NumPy"/><br/>NumPy
-    </td>
     </td>
   </tr>
 </table>
