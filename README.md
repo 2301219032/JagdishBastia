@@ -23,30 +23,24 @@
 • Tools - VS Code,Github
 
 
-  <!-- 🌐 Frontend and Backend -->
-  <tr>
-    <th colspan="6" style="padding: 12px; font-size: 20px;">🌐Frontend and Backend</th>
-  </tr>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/JavaScript.svg" height="50" title="JavaScript" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/React-Dark.svg" height="50" title="React.js" /></td>
-     <td><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/HTML.svg" height="50" title="HTML5" /></td>
-      <td><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/CSS.svg" height="50" title="CSS3" /></td>
-      <td><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/NodeJS-Dark.svg" height="50" title="Node.js" /></td>
+  <!-- 🌐 My Technical Skills -->
+ 
+  <h2>🚀 Frontend and Backend Skills</h2>
 
-  </tr>
-    <!-- 📱 Programming Languages -->
-     <tr>
-     <td><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/Java-Light.svg" height="50" title="Java" /></td>
-      <td><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/Python-Dark.svg" height="50" title="Python" /></td>
-     </tr>
-  <!-- 🗄️ Databases & Tools -->
+<table>
   <tr>
-      <td><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/MySQL-Dark.svg" height="50" title="MySQL" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/Github-Light.svg" height="50" title="GitHub" /></td>
-<td><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/VSCode-Light.svg" height="50" title="Visual Studio Code" /></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/JavaScript.svg" height="50" title="JavaScript" /></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/React-Dark.svg" height="50" title="React.js" /></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/HTML.svg" height="50" title="HTML5" /></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/CSS.svg" height="50" title="CSS3" /></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/NodeJS-Dark.svg" height="50" title="Node.js" /></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/Java-Dark.svg" height="50" title="Java" /></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/Python-Dark.svg" height="50" title="Python" /></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/MySQL-Dark.svg" height="50" title="MySQL" /></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/VSCode-Light.svg" height="50" title="Visual Studio Code" /></td>
   </tr>
-  
+</table>
+
 
 
 
