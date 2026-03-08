@@ -1,19 +1,18 @@
 <h1 align="center">Hi 👋, I'm Jagdish Bastia</h1>
-<h3 align="center">A Passionate Frontend and Backend Developer | Python Programmer | AIML Enthusiast | Learner</h3>
+<h3 align="center">A Passionate Frontend and Backend Developer | JAV Programmer | Learner</h3>
 
 ---
 
 🔭 I’m currently working on:  
 • Building web projects using React.js and Node.js  
-• Exploring Machine Learning with Python  
 • Strengthening my backend development with Node.js
 • Sharpening my interview skills
 
 
 🌱 I’m currently learning:  
-• Git & GitHub for collaboration  
-• AIML
-• Advanced Python,Java projects and skills
+• Cloud Technologies 
+• Springboot
+• Advanced Projects
 
 💬 My Technical Skills:  
 <h2>💻 Technical Skills</h2>
