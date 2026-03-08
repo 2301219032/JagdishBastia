@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jagdish Bastia</h1>
-<h3 align="center">A Passionate Frontend and Backend Developer | JAV Programmer | Learner</h3>
+<h3 align="center">A Passionate Frontend and Backend Developer | JAVA Programmer | Learner</h3>
 
 ---
 
